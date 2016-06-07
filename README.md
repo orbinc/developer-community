@@ -2,17 +2,17 @@
 
 Goto [Orb SmartCoin](https://imagine-orb.com/).
 
-This is developer community of Orb. Our community is running by GitHub Issues, you can ask or add questions about our services. Anyone can post a issue.
+Welcome to Orb's developer community. Our community is run on GitHub Issues, where you can ask or answer questions about our services.  Anyone can post a issue.
 
 ## Notice
 
-This is developer community, anyone would answer other developer's questions. Their answers doesn't guarantee accuracy, integrity, and officially. Orb developers join the community, too. 
+This is developer community, where anyone can answer other developers' questions. Orb does not guarantee the accuracy of answers.  However, Orb developers are also members of the community.
 
-You don't write a personal information, token keys, authentication information, or anything about secret of your organization.
+Please don't share personal information, token keys, authentication information, or anything confidential regarding you or your organization.
 
-We would close or delete your issues if it is contrary to public order or morality.
+Orb reserves the right to close or delete your issues at our discretion if we deem them to be contrary to public order or morality.
 
-This community is the best effort. Any developer has no answer due and limitation. 
+This community represents the best efforts of other developers. Please recognize the limitations of others and that an answer to your question is not necessarily guaranteed.
 
 ## Actions
 
